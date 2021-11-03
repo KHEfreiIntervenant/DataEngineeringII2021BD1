@@ -16,5 +16,6 @@ This line is by Nadhem Khlij
 This line is by Dany Sonethavy
 This line is by Enzo Aleixo-carvalho
 This line is by Maud Gellee
+This line is by Bastien Bernard
 This line is by Armand Goubeau
 This line is by Florian Marques
