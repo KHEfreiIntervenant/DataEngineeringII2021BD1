@@ -19,6 +19,11 @@ This line is by Maud Gellee
 This line is by Bastien Bernard
 This line is by Armand Goubeau
 This line is by Florian Marques
+<<<<<<< HEAD
 =======
 This line is by Louise Bouque
 >>>>>>> Stashed changes
+=======
+This line is by Hugo TANG
+This line is by Arthur Gueneau
+>>>>>>> main
