@@ -5,7 +5,6 @@ This line is by Lucas Hilaire
 This line is by Alexis Norindr
 This line is by Minart Louis
 This line is by Clement Boulanger
-<<<<<<< Updated upstream
 This line is by Celine Ye
 This line is by Louis Dumontet
 This line is by Wiem Chouchane
@@ -19,15 +18,8 @@ This line is by Maud Gellee
 This line is by Bastien Bernard
 This line is by Armand Goubeau
 This line is by Florian Marques
-<<<<<<< HEAD
-=======
 This line is by Louise Bouque
->>>>>>> Stashed changes
-=======
 This line is by Hugo TANG
 This line is by Arthur Gueneau
-<<<<<<< HEAD
->>>>>>> main
-=======
 This line is by Louis Tardy
->>>>>>> main
+This line is by Hugo Butery
