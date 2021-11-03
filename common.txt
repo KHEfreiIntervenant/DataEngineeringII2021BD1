@@ -26,4 +26,8 @@ This line is by Louise Bouque
 =======
 This line is by Hugo TANG
 This line is by Arthur Gueneau
+<<<<<<< HEAD
+>>>>>>> main
+=======
+This line is by Louis Tardy
 >>>>>>> main
