@@ -19,3 +19,4 @@ This line is by Bastien Bernard
 This line is by Armand Goubeau
 This line is by Florian Marques
 This line is by Hugo TANG
+This line is by Arthur Gueneau
