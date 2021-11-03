@@ -35,3 +35,4 @@ This line is by Theo Dura
 This line is by Gabriel Precigout
 >>>>>>> 50664259b9a24d1a55b5750207219ec7da107ead
 This line is by Gabriel Thibaud
+This line is by Cloe Ricard
