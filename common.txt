@@ -15,9 +15,7 @@ This line is by Nadhem Khlij
 This line is by Dany Sonethavy
 This line is by Enzo Aleixo-carvalho
 This line is by Maud Gellee
-<<<<<<< HEAD
 This line is by Philippe LAO
-=======
 This line is by Bastien Bernard
 This line is by Armand Goubeau
 This line is by Florian Marques
@@ -29,12 +27,9 @@ This line is by Hugo Butery
 This line is by Nicolas Kourlukoff
 This line is by Victor serena
 This line is by Theo Dura
-<<<<<<< HEAD
->>>>>>> 6cf2c8562fb427d366ec670cce2e56b384d02dd1
-=======
 This line is by Gabriel Precigout
->>>>>>> 50664259b9a24d1a55b5750207219ec7da107ead
 This line is by Gabriel Thibaud
 This line is by Cloe Ricard
 This line is by Arnaud Pignerol
 This line is by Matthieu Eccher
+This line is by Melany Ebrahim
